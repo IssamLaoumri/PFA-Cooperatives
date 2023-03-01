@@ -15,5 +15,6 @@ public class GestionCooperativesApplication implements ApplicationRunner {
     @Override
     public void run(ApplicationArguments args) {
         System.out.println("Test Test from Hadil FDILAT...");
+        System.out.println("Test5 Test from Hadil FDILAT...");
     }
 }
